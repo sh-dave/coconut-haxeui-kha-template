@@ -1,0 +1,78 @@
+[submodule "libs/coconut.data"]
+	path = libs/coconut.data
+	url = https://github.com/mvcoconut/coconut.data.git
+[submodule "libs/tink_state"]
+	path = libs/tink_state
+	url = https://github.com/haxetink/tink_state.git
+[submodule "libs/tink_core"]
+	path = libs/tink_core
+	url = https://github.com/haxetink/tink_core.git
+[submodule "libs/tink_lang"]
+	path = libs/tink_lang
+	url = https://github.com/haxetink/tink_lang.git
+[submodule "libs/tink_syntaxhub"]
+	path = libs/tink_syntaxhub
+	url = https://github.com/haxetink/tink_syntaxhub.git
+[submodule "libs/tink_priority"]
+	path = libs/tink_priority
+	url = https://github.com/haxetink/tink_priority.git
+[submodule "libs/tink_macro"]
+	path = libs/tink_macro
+	url = https://github.com/haxetink/tink_macro.git
+[submodule "libs/tink_pure"]
+	path = libs/tink_pure
+	url = https://github.com/haxetink/tink_pure.git
+[submodule "libs/tink_slice"]
+	path = libs/tink_slice
+	url = https://github.com/haxetink/tink_slice.git
+[submodule "libs/tink_anon"]
+	path = libs/tink_anon
+	url = https://github.com/haxetink/tink_anon.git
+[submodule "Kha"]
+	path = Kha
+	url = https://github.com/Kode/Kha.git
+[submodule "libs/tink_json"]
+	path = libs/tink_json
+	url = https://github.com/haxetink/tink_json.git
+[submodule "libs/tink_typecrawler"]
+	path = libs/tink_typecrawler
+	url = https://github.com/haxetink/tink_typecrawler.git
+[submodule "libs/hxnodejs"]
+	path = libs/hxnodejs
+	url = https://github.com/haxefoundation/hxnodejs.git
+[submodule "libs/hscript"]
+	path = libs/hscript
+	url = https://github.com/HaxeFoundation/hscript.git
+[submodule "libs/tink_url"]
+	path = libs/tink_url
+	url = https://github.com/haxetink/tink_url.git
+[submodule "libs/tink_stringly"]
+	path = libs/tink_stringly
+	url = https://github.com/haxetink/tink_stringly.git
+[submodule "libs/tink_core_ext"]
+	path = libs/tink_core_ext
+	url = https://github.com/kevinresol/tink_core_ext.git
+[submodule "libs/haxeui-core"]
+	path = libs/haxeui-core
+	url = https://github.com/haxeui/haxeui-core.git
+[submodule "libs/haxeui-kha"]
+	path = libs/haxeui-kha
+	url = https://github.com/haxeui/haxeui-kha.git
+[submodule "libs/coconut.diffing"]
+	path = libs/coconut.diffing
+	url = https://github.com/mvcoconut/coconut.diffing.git
+[submodule "libs/coconut.ui"]
+	path = libs/coconut.ui
+	url = https://github.com/mvcoconut/coconut.ui.git
+[submodule "libs/tink_hxx"]
+	path = libs/tink_hxx
+	url = https://github.com/haxetink/tink_hxx.git
+[submodule "libs/tink_parse"]
+	path = libs/tink_parse
+	url = https://github.com/haxetink/tink_parse.git
+[submodule "libs/html-entities"]
+	path = libs/html-entities
+	url = https://github.com/back2dos/html-entities.git
+[submodule "libs/coconut.haxeui"]
+	path = libs/coconut.haxeui
+	url = https://github.com/mvcoconut/coconut.haxeui.git
